@@ -1,1 +1,1 @@
-# Bellabeat-Data-Analytics-Case-Study
+# Bellabeat-Data-Analytics-Case-Study using BigQuery SQL and Tableau
